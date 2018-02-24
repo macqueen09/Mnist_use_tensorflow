@@ -1,2 +1,2 @@
 # Mnist_use_tensorflow
-use DeepLearning method make mnist batter
+use DeepLearning method make mnist better
